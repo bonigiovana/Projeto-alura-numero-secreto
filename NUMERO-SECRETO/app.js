@@ -64,7 +64,8 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
-// meu nome agora vai aparecer .
+// "projeto inicial"
+
 
 
 
